@@ -1,3 +1,4 @@
+1st commit
 seq-align
 =========
 Smith-Waterman & Needleman-Wunsch Alignment in C  
